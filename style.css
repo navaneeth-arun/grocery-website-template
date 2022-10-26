@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headerdiv{
+    background-color: black;
+}
+
+.headerdiv a {
+    color: #f2f2f2;
+    display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0px 0px 0px 165px;
+    position: static;
+}
+
+.headerdiv a:hover {
+    background-color: greenyellow;
+    color: black;
+    transition-duration: 0.4s;
+}
+
+#logo{
+    width: 120px;
+    height: 120px;
+    margin: 0px 0px 0px 30px;
+}
+
+#farm{
+    width: 450px;
+    height: auto;
+    margin: 40px 0px 0px 540px;
+}
+
+#samplebut{
+    display: block;
+    margin: 25px 0px 0px 650px;
+    padding: 16px 32px;
+    background-color: white;
+    color: black;
+    border: 2px solid greenyellow;
+    border-radius: 8px;
+    transition-duration: 0.3s;
+}
+
+#samplebut:hover{
+    background-color: greenyellow;
+    color: olive;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.chal{
+    padding-top: 45px;
+    padding-left: 25px;
+}
+
+h2{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: green;
+}
+
+h3, #text{
+    text-align: center;
+    justify-content: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+h1{
+    color: greenyellow;
+}
+
+#offers{
+    color: white;
+    text-align: right;
+    font-style: italic;
+    padding-right: 25px;
+    margin-top: -25px;
+    padding-bottom: 30px;
+}
+
+#cond{
+    text-align: right;
+    font-style: italic;
+    text-decoration: underline;
+    padding-right: 25px;
+    font-size: 12px;
+    margin-top: -27px;
+    padding-bottom: 30px;
+}
